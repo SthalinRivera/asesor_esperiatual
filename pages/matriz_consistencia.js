@@ -91,7 +91,7 @@ export default function Home() {
                     <input
                       type="text"
                       name="variable2"
-                      placeholder=" (Eg: Mejorar proceso de ventas, etc...) "
+                      placeholder=" (Eg: Mejorar proceso de ventas de empresa ABC, etc...) "
                       value={va02Input}
                       onChange={(e) => setVa02Input(e.target.value)} class="form-control" />
                   </div>

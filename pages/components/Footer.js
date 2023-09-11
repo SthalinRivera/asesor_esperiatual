@@ -12,7 +12,7 @@ function Footer() {
               <div class="row mt-3">
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                   <h6 class="text-uppercase fw-bold ">
-                    <i class="fas fa-gem me-3"></i>TraviWeb
+                    <i class="fas fa-gem me-3"></i>AsesorEspiritual
                   </h6>
                   <p>
                     Transforma tus tareas académicas y profesionales con nuestra innovación
@@ -47,9 +47,9 @@ function Footer() {
                   <p><i class="fas fa-home me-3"></i> Cañete - Lima</p>
                   <p>
                     <i class="fas fa-envelope me-3"></i>
-                    TraviWeb.@gmail.com
+                    ######.@####.com
                   </p>
-                  <p><i class="fas fa-phone me-3"></i> 910985938</p>
+                  <p><i class="fas fa-phone me-3"></i> #########</p>
                 </div>
               </div>
             </div>
@@ -58,11 +58,11 @@ function Footer() {
           <div class="text-center" >
 
             <section class="d-flex justify-content-center justify-content-lg-between">
-              <p className={`${styles.text_gt}`} >&copy; {new Date().getFullYear()} by TraviWeb</p>
+              <p className={`${styles.text_gt}`} >&copy; {new Date().getFullYear()} by AsesorEspiritual</p>
               <div>
                 <ul className="list-unstyled d-flex " >
-                  <li className="ms-3 mt-1"><a title="Github" target="_black" className="link-dark" href="https://github.com/SthalinRivera/"> <FaGithub size={20} color="purple" />  </a></li>
-                  <li className="ms-3 mt-1"><a title="Facebook" target="_black" className="link-dark" href="https://web.facebook.com/adlersthalin.riveracenteno"><FaFacebook size={20} color="purple" /></a></li>
+                  <li className="ms-3 mt-1"><a title="Github" target="_black" className="link-dark" href="#"> <FaGithub size={20} color="purple" />  </a></li>
+                  <li className="ms-3 mt-1"><a title="Facebook" target="_black" className="link-dark" href="#"><FaFacebook size={20} color="purple" /></a></li>
                 </ul>
               </div>
             </section>
